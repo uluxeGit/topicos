@@ -1,1 +1,0 @@
-//const y let solo para definir variables, scope de ellas y si es mutable o no
